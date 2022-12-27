@@ -2,7 +2,8 @@
 #include<iomanip> //For using setw(), setprecision(), ...
 using namespace std;
 
-int main(){	
+int main(){
+	float x,y,z;	
 	cout << "Enter initial loan: ";
 	cout << "Enter interest rate per year (%): ";
 	cout << "Enter amount you can pay per year: ";
